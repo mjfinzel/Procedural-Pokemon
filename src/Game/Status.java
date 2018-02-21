@@ -1,0 +1,44 @@
+package Game;
+
+public class Status {
+	int BURN = 0;
+	int FREEZE = 1;
+	int PARALYSIS = 2;
+	int POISON = 3;
+	int BADLYPOISONED = 4;
+	int SLEEP = 5;
+	int CONFUSION = 6;
+	int CURSE = 7;
+	int EMBARGO = 8;
+	int ENCORE = 9;
+	int FLINCH = 10;
+	int HEALBLOCK = 11;
+	int IDENTIFICAATION = 12;
+	int INFATUATION = 13;
+	int NIGHTMARE = 14;
+	int PARTIALLYTRAPPED = 15;
+	int PERISHSONG = 16;
+	int SEEDING = 17;
+	int SPOOKED = 18;
+	int TAUNT = 19;
+	int TELEKINETICLEVITATION = 20;
+	int TORMENT = 21;
+	int TRAPPED = 22;
+	int AQUARING = 23;
+	int BRACING = 24;
+	int CENTEROFATTENTION = 25;
+	int DEFENSECURL = 26;
+	int GLOWING = 27;
+	int ROOTING = 28;
+	int MAGICCOAT = 29;
+	int MAGNETICLEVITATION = 30;
+	int MINIMIZE = 31;
+	int PROTECTION = 32;
+	int RECHARGING = 33;
+	int SEMIINVULNERABLE = 34;
+	int SUBSTITUTE = 35;
+	int TAKINGAIM = 36;
+	int TAKINGINSUNLIGHT = 37;
+	int WITHDRAWING = 38;
+	int WHIRLWIND = 39;
+}
